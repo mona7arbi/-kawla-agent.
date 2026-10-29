@@ -1,0 +1,28 @@
+11 knowledge tasks with an evidence string
+
+  A ❌ count-libraries
+  A ✅ qazan-holdings
+  A ❌ external-lending
+  A ✅ arif-hikmat-born
+  A ✅ uthman-manuscripts
+  A ✅ jafri-endowed
+  A ❌ kutbi-manuscripts
+  A ❌ saqizli-founded
+  A ❌ rifai-family
+  A ✅ room-hours
+  A ✅ max-items
+A (raw): recall@5 = 6/11
+
+  B ✅ count-libraries
+  B ✅ qazan-holdings
+  B ✅ external-lending
+  B ✅ arif-hikmat-born
+  B ✅ uthman-manuscripts
+  B ✅ jafri-endowed
+  B ✅ kutbi-manuscripts
+  B ✅ saqizli-founded
+  B ✅ rifai-family
+  B ✅ room-hours
+  B ✅ max-items
+B (clean): recall@5 = 11/11
+
