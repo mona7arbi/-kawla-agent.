@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+artifacts/
+cache/
+data/index_*.json
+*.sqlite-journal
+api_key_settings.txt
